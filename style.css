@@ -5,6 +5,11 @@
     font-family: 'JetBrains Mono', sans-serif;
 }
 
+@font-face {
+    font-family: 'JetBrains Mono';
+    src: url(./JetBrainsMono-Regular.ttf)format('truetype');
+}
+
 body{
     background-color: rgb(209, 13, 13);
     height: 100vh;
